@@ -22,10 +22,10 @@ CC BY 4.0
 
 ## Used Applications
 
-- *Blender*.
+- *Blender* (a very powerful 3D modeller).
 
 - *Godot*.
 
-- *Inkscape* (was used to create the `BaseCol.png` file, being my only palette of colors.
+- *Inkscape* (was used to create the `BaseCol.png` file, being my only palette of colours).
 
 - *Vim*, because I like to use the terminal, sometimes.
